@@ -14,11 +14,11 @@ Follow these steps to get the application running on your local machine:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/whalefund/farcaster-user-insights.git
+   git clone https://github.com/whalefund/Farcaster_User_Insights.git
    ```
 2. **Navigate to the project directory**:
    ```bash
-   cd farcaster-user-insights
+   cd Farcaster_User_Insights
    ```
 3. **Install required dependencies**:
    ```bash
